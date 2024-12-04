@@ -1,5 +1,8 @@
 # Project_Management_Application
 
+![image](https://github.com/user-attachments/assets/51ab6486-f9c1-4f81-9596-566fe4c5ee07)
+
+
 Project Management Application allows to organize, track, and collaborate on tasks within multiple projects. It allows users to assign tasks, set deadlines, view progress through various views (such as list, timeline, or table), It also includes real-time updates, advanced search and dynamic filtering options. 
 
 The project involves building a Project Management Application using Next.js for the frontend, Node.js with Prisma for the backend, and deploying the app on AWS infrastructure. The application features authentication with AWS Cognito, data management using PostgreSQL on Amazon RDS, and hosting on AWS Amplify. The deployment also involves securing the backend with Amazon API Gateway and managing static files with Amazon S3.
